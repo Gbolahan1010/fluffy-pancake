@@ -1,0 +1,26 @@
+{
+  "name": "fluffy-pancake",
+  "version": "1.0.0",
+  "description": "Basically a mini bakery business project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gbolahan1010/fluffy-pancake.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Gbolahan1010/fluffy-pancake/issues"
+  },
+  "homepage": "https://github.com/Gbolahan1010/fluffy-pancake#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0",
+    "mongodb": "^7.7.0"
+  }
+}
